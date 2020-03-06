@@ -1,0 +1,11 @@
+{
+  "name": "pharmacyDb",
+  "connector": "mongodb",
+  "url": "mongodb+srv://userMongo:Password01@cluster-nxtjk.mongodb.net/pharmacy",
+  "host": "",
+  "port": 0,
+  "user": "userMongo",
+  "password": "Password01",
+  "database": "pharmacy",
+  "useNewUrlParser": false
+}
